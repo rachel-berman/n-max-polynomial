@@ -10,17 +10,20 @@ An "n-factorization" of S(x) is an ordered pair (u(x), v(x)) of polynomials over
   2. u(x) and v(x) have degree at most n.
   
 We say that S(x) is "n-maximal" if it has as many as possible n-factorizations (u(x), v(x)).
+
 The research objectives: 
   1. Compute or give upper and lower bounds on the number of n-factorizations of an n-maximal polynomial, in terms of n and q. 
   2. Characterize the n-maximal polynomials in F.
 
 
 This work is motivated by an application in the field of Coding Theory, specifically, the list decoding of a certain type of Rank-Metric codes. More details can be found in:
+
 *R.M. Roth, ``On decoding rank-metric codes over large fields``, IEEE Trans. Inf. Theory 64 (2018)
 944–951 (Section 4). 
 
 
 The results of this research can be found in:
+
 *Berman R.N. & Roth R.M., ``On the Number of Factorizations of Polynomials over
 Finite Fields``, Journal of Combinatorial Theory, Series A. Volume 182 (2021, August), 105462,
 https://doi.org/10.1016/j.jcta.2021.105462
