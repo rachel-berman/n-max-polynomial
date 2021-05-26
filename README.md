@@ -8,6 +8,7 @@ Given a finite field F=GF(q) and a positive integer n, let S(x) be a monic polyn
 An "n-factorization" of S(x) is an ordered pair (u(x), v(x)) of polynomials over F such that:
   1. S(x) = u(x) * v(x).
   2. u(x) and v(x) have degree at most n.
+  
 We say that S(x) is "n-maximal" if it has as many as possible n-factorizations (u(x), v(x)).
 The research objectives: 
   1. Compute or give upper and lower bounds on the number of n-factorizations of an n-maximal polynomial, in terms of n and q. 
